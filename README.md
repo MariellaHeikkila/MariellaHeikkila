@@ -9,7 +9,7 @@ I am a student of Business Information Systems at Oulu University of applied sci
 
 This is my second year studying and I am looking for internship positions related to software development. 
 My skillset in programming field is basic to intermediate level, but I´m very modest too because I´m from Oulu, Finland. 🚀
-Programming technologies are Javascript, CSS, HTML, React and React Native. 
+My programming technologies are Javascript, CSS, HTML, React and React Native. 
 I´m familiar with Kotlin and Jetpack and I´m interested in learning Java if opportunity appears. 💻
 
  I'm always learning and developing my skills across various technologies. 
