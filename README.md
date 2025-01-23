@@ -21,6 +21,9 @@ MobileProject	- React Native, Expo Go, Firebase Firestore.
                 and utilized Figma for visual design and high-fidelity prototyping. 
 https://github.com/MobileProject13/mobileproject
 
+Thesis -	User experience in the design of an entertainment game: usability, accessibility and user experience in the user interface design.
+	https://urn.fi/URN:NBN:fi:amk-2024111928789
+
 
 
  I'm always learning and developing my skills across various technologies. 
