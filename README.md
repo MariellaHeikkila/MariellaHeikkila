@@ -19,7 +19,7 @@ https://github.com/Verkkopalveluprojekti-Ryhma10/joulukuusikauppa
 MobileProject	- React Native, Expo Go, Firebase Firestore. 
                 Performed full-stack programming, designed information architecture (IA), 
                 and utilized Figma for visual design and high-fidelity prototyping. 
-[Project repository: https://github.com/MobileProject13/mobileproject](https://github.com/MobileProject13/mobileproject)
+https://github.com/MobileProject13/mobileproject
 
 
 
