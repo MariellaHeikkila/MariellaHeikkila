@@ -4,17 +4,27 @@
 
 
 
-Welcome to check my Github profile with all the awsome little coding projects of mine! 
-I am a student of Business Information Systems at Oulu University of applied sciences and learning software development. 
+Welcome to check my Github profile! 
+I am a Business Information Systems graduate from Oulu University of Applied Sciences, 
+with a strong interest and focus on software development. 
+I am now seeking entry-level or junior positions to further develop my skills and grow as a professional.
 
-This is my second year studying and I am looking for internship positions related to software development. 
-My skillset in programming field is basic to intermediate level, but I´m very modest too because I´m from Oulu, Finland. 🚀
-My programming technologies are Javascript, CSS, HTML, React and React Native. 
-I´m familiar with Kotlin and Jetpack and I´m interested in learning Java if opportunity appears. 💻
+Academic projects: 
+
+E-commerce Project	- JavaScript, React, Node.js. Relational database. 
+                     Database programming with REST API, SQL. 
+                     Figma: visual design and prototyping.
+https://github.com/Verkkopalveluprojekti-Ryhma10/joulukuusikauppa
+
+MobileProject	- React Native, Expo Go, Firebase Firestore. 
+                Performed full-stack programming, designed information architecture (IA), 
+                and utilized Figma for visual design and high-fidelity prototyping. 
+[Project repository: https://github.com/MobileProject13/mobileproject](https://github.com/MobileProject13/mobileproject)
+
+
 
  I'm always learning and developing my skills across various technologies. 
  Open to collaboration and ideas 🤝 so feel free to reach out if you want to collaborate or ask anything! 
-Join the discussion about my projects or any tech-related topic in GitHub issues.
 
 <!---
 MariellaHeikkila/MariellaHeikkila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
