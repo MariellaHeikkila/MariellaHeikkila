@@ -14,7 +14,6 @@ Academic projects:
 E-commerce Project	- JavaScript, React, Node.js. Relational database. 
                      Database programming with REST API, SQL. 
                      Figma: visual design and prototyping.
-https://github.com/Verkkopalveluprojekti-Ryhma10/joulukuusikauppa
 
 MobileProject	- React Native, Expo Go, Firebase Firestore. 
                 Performed full-stack programming, designed information architecture (IA), 
