@@ -4,7 +4,8 @@
 
 
 
-Welcome to check my Github profile! 
+Welcome to check my Github profile!
+
 I am a Business Information Systems graduate from Oulu University of Applied Sciences, 
 with a strong interest and focus on software development. 
 I am now seeking entry-level or junior positions to further develop my skills and grow as a professional.
